@@ -4,8 +4,11 @@ header{
 }
 .container{
   height: 80vh;
+  /* tai ijungia flex galimybes */
   display: flex;
+  /* tai pasako krypti kuria elementai kris */
   flex-direction: column;
+  /* tai pasako, kad bus nukeliami i antra stulpeli */
   flex-wrap: wrap;
 
 }
